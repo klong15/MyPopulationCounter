@@ -39,8 +39,9 @@ namespace BirthYears
 
             printResult(people, yearCount);
 
-            FileStream outstream = File.OpenWrite("test.jpeg");
+            FileStream outstream = File.OpenWrite("PopulationChart.jpeg");
             GeneratePlot(yearCount, outstream);
+            Console.WriteLine("Chart image outputted to projects root directory");
             outstream.Close();
 
             Console.WriteLine("\nPress any key to exit...");
