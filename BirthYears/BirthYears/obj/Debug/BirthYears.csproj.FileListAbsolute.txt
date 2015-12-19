@@ -4,3 +4,6 @@ C:\Users\Kyle\dev\interviewproblems\BirthYears\BirthYears\bin\Debug\BirthYears.p
 C:\Users\Kyle\dev\interviewproblems\BirthYears\BirthYears\obj\Debug\BirthYears.csprojResolveAssemblyReference.cache
 C:\Users\Kyle\dev\interviewproblems\BirthYears\BirthYears\obj\Debug\BirthYears.exe
 C:\Users\Kyle\dev\interviewproblems\BirthYears\BirthYears\obj\Debug\BirthYears.pdb
+C:\Users\Kyle\dev\PopulationCounter\MyPopulationCounter\BirthYears\BirthYears\bin\Debug\BirthYears.exe.config
+C:\Users\Kyle\dev\PopulationCounter\MyPopulationCounter\BirthYears\BirthYears\obj\Debug\BirthYears.exe
+C:\Users\Kyle\dev\PopulationCounter\MyPopulationCounter\BirthYears\BirthYears\obj\Debug\BirthYears.pdb
